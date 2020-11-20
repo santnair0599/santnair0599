@@ -4,13 +4,13 @@ Hi There! I'm a Data Science Practitioner who loves to uncover the hidden facts 
 
 Things I'm good at 🔥
 
-Languages: Python, SQL, Excel VBA, HTML, CSS.
+**Languages:** Python, SQL, Excel VBA, HTML, CSS.
 
-Framework: Flask, Ruby on Rails, AngularJS, React, Bootstrap.
+**Framework:** Flask, Ruby on Rails, AngularJS, React, Bootstrap.
 
-Libraries & Tools: AWS EC2, AWS S3, Heroku, Azure, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Tableau, Power BI, PyTorch, Keras, NLTK.
+**Libraries & Tools:** AWS EC2, AWS S3, Heroku, Azure, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Tableau, Power BI, PyTorch, Keras, NLTK.
 
-Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods.
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods.
 
 <!--
 **santnair0599/santnair0599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
